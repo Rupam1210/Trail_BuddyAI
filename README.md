@@ -229,14 +229,6 @@ trailbuddy-ai/
 └── README.md
 ```
 
-## 🎬 Demo
-
-**GitHub Repository:** https://github.com/YOUR_GITHUB_USERNAME/trailbuddy-ai
-
-**Live Demo:** Add your deployed application URL here when available.
-
-**Demo Video:** Add a screen recording or outdoor demonstration link here when available.
-
 ## 🔮 Future Improvements
 
 - Live weather and verified trail information
@@ -245,10 +237,7 @@ trailbuddy-ai/
 - Seasonal gardening recommendations
 - Downloadable outdoor plans for offline access
 
-## 📄 License
-
-This project is released under the MIT License.
-
+ 
 ---
 
 **Built for the Touch Grass challenge. Plan the adventure. Then go live it. 🌿**
