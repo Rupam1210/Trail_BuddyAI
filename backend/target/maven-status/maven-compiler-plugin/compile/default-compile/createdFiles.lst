@@ -1,0 +1,5 @@
+com\trailbuddy\TrailBuddyApplication.class
+com\trailbuddy\controller\PlanController.class
+com\trailbuddy\model\PlanRequest.class
+com\trailbuddy\service\PlanService$1.class
+com\trailbuddy\service\PlanService.class
